@@ -1,0 +1,28 @@
+.userInfo{
+    width: 1000px;
+    margin: 30px auto;
+    display: flex;
+    height: auto;
+}
+.avatar{
+    width: 200px;
+    width: 20%;
+    padding: 10px;
+}
+.userTextInfo{
+    width: 80%;
+    padding: 10px;
+}
+.info{
+    margin: 10px 0;
+}
+.GamesOfUser{
+
+    height: 100px;
+}
+.emptyness{
+    padding: 5% 0;
+    display: block;
+    text-align: center;
+    color: #777;
+}
